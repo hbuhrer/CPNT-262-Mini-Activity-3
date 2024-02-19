@@ -35,7 +35,7 @@ First thing I did was try to write some pseudo code to what I think this code wi
 - Move each raindrop down a bit for the next frame.
 
 4. **Animation**:
-   - Keep calling the draw function to make the rain fall at the chosen speed.
+- Keep calling the draw function to make the rain fall at the chosen speed.
 
 This is how I set up my code: 
 
